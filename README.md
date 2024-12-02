@@ -18,6 +18,15 @@ Revolutionizing online shopping by tracking Amazon prices and notifying users of
 - **Stack**: Next.js, Bright Data's WebUnlocker, Cheerio, MongoDB, Tailwind CSS  
 - **Features**: Price tracking, scheduled notifications, and minimal UI.
 
+#### **2. [Jellyfiles](https://github.com/manan0209/jellyfiles)**
+A secure file-sharing and storage application.  
+- **Stack**: React, Node.js, Appwrite  
+- **Features**:  
+  - Easy file organization
+  - User-friendly interface
+  - Fast search functionality
+  - Secure file storage
+
 #### **2. [BoozeDown](https://github.com/manan0209/boozedown)**  
 A tool to download YouTube videos or extract audio from both YouTube URLs and uploaded video files.  
 - **Stack**: Node.js, `yt-dlp`, FFmpeg  
