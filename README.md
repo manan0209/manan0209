@@ -13,9 +13,33 @@
 ---
 
 ### 📚 Projects
-- **[PriceX](https://github.com/manan0209/PriceX):** Revolutionizing online shopping by tracking Amazon prices and notifying users of price drops.
-- **[Wheelshare](https://github.com/manan0209/Wheelshare):** Frontend for a cab-sharing website to promote community-driven travel.
-- **[Postman Challenge](https://github.com/manan0209/Postman-Challenge):** Completed Postman API Fundamentals and earned the Student Expert certificate.
+#### **1. [PriceX](https://github.com/manan0209/PriceX)**  
+Revolutionizing online shopping by tracking Amazon prices and notifying users of price drops.  
+- **Stack**: Next.js, Bright Data's WebUnlocker, Cheerio, MongoDB, Tailwind CSS  
+- **Features**: Price tracking, scheduled notifications, and minimal UI.
+
+#### **2. [BoozeDown](https://github.com/manan0209/boozedown)**  
+A tool to download YouTube videos or extract audio from both YouTube URLs and uploaded video files.  
+- **Stack**: Node.js, `yt-dlp`, FFmpeg  
+- **Features**:  
+  - Download video/audio from YouTube.  
+  - Extract MP3 audio from uploaded video files.  
+  - Automatic file cleanup post-download.  
+
+#### **3. [Moody](https://github.com/manan0209/moody)**  
+A mood-tracking application with a minimalist UI and functional mood-tracking features.  
+- **Stack**: React Native, Expo  
+- **Features**: Track daily moods, categorize feelings, and analyze trends.
+
+#### **4. [Wheelshare](https://github.com/manan0209/Wheelshare)**  
+Frontend for a cab-sharing platform promoting community-driven travel.  
+- **Stack**: React.js, CSS  
+- **Features**: Responsive design for seamless user experience.  
+
+#### **5. [Postman Challenge](https://github.com/manan0209/Postman-Challenge)**  
+Completed Postman API Fundamentals and earned the Student Expert certificate.  
+- **Tools**: Postman, API design concepts  
+
 
 ---
 
