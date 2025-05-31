@@ -16,7 +16,7 @@
 
 <div align="left">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, create a new one!."*
 
 ```javascript
 const manan = {
