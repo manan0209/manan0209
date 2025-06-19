@@ -55,7 +55,7 @@ When nature calls, we answer.
 <td width="50%">
 
 **[GeekGod](https://geekgod.vercel.app/)**  
-*Algorithm → Interactive Algorithm Visualizer*  
+*Algorithm → Interactive Visualizer*  
  Animations and step-by-step execution.
 
 </td>
