@@ -54,9 +54,9 @@ When nature calls, we answer.
 </td>
 <td width="50%">
 
-**[Focus0](https://focusmnn.vercel.app)**  
-*YouTube → Study tool converter*  
-Turning procrastination into productivity.
+**[GeekGod](https://geekgod.vercel.app/)**  
+*Algorithm → Interactive Algorithm Visualizer*  
+ Algorithms through animations and step-by-step execution.
 
 </td>
 </tr>
