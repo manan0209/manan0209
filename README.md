@@ -56,7 +56,7 @@ When nature calls, we answer.
 
 **[GeekGod](https://geekgod.vercel.app/)**  
 *Algorithm → Interactive Algorithm Visualizer*  
- Algorithms through animations and step-by-step execution.
+ Animations and step-by-step execution.
 
 </td>
 </tr>
