@@ -117,7 +117,7 @@ Currently fascinated by: **AI integration in everyday tools**, **System design p
 
 Choose your communication protocol:
 
-- **Professional**: [LinkedIn](https://linkedin.com/in/curiousmanan)
+
 - **Code**: [GitHub](https://github.com/manan0209) *(you are here)*
 - **Direct**: [Email](mailto:manangoel0209@gmail.com)
 
