@@ -91,7 +91,7 @@ Files that stick around when you need them.
 
 ---
 
-## 🛠 Arsenal
+## Arsenal
 
 **Languages**: JavaScript, TypeScript, C++, Python  
 **Frontend**: React, Next.js, HTML/CSS, Tailwind  
