@@ -34,14 +34,13 @@ console.log(`${manan.current_mission} with ${manan.weapons_of_choice.join(" & ")
 
 ---
 
-## 🎯 Current Chapter
+## Current Chapter
 
-**Building [GhostSales](https://ghostsales.vercel.app)** — An AI-powered CRM that doesn't suck  
-*Status: 73% complete, 127% caffeinated*
+**Building [GhostSales](https://ghostsales.vercel.app)** — An AI-powered CRM
 
 ---
 
-## 🚀 Recently Shipped
+## Recently Shipped
 
 <table>
 <tr>
@@ -80,12 +79,11 @@ Files that stick around when you need them.
 
 ---
 
-## 📊 By The Numbers
+## By The Numbers
 
 ```
   Lines of code written:           ~50,000+
   Bugs fixed:                      ∞
-  Coffee cups consumed:            [OVERFLOW ERROR]
   Problems solved:                 273
   New problems created:            274
   Open source contributions:       GSSOC'24 Contributor
@@ -103,17 +101,7 @@ Files that stick around when you need them.
 
 ---
 
-## 💭 Current Thoughts
-
-> *"The best error message is the one that never shows up."*
-
-Building software is like being an architect, detective, and magician all at once. You design the blueprint, debug the mysteries, and somehow make it all work like magic.
-
-Currently fascinated by: **AI integration in everyday tools**, **System design patterns**, **Developer experience optimization**
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 Choose your communication protocol:
 
@@ -126,10 +114,10 @@ Choose your communication protocol:
 <div align="center">
 
 ```
-⚡ Fun fact: I can debug code faster than I can explain why it broke
+ I can debug code faster than I can explain why it broke
 ```
 
-*Last updated: May 2025 | Made with ☕ and ❤️*
+*Last updated: May 2025 | Made with ❤*
 
 </div>
 
